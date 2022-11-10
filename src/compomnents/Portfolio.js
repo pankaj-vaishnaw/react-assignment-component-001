@@ -16,7 +16,7 @@ const Portfolio = () => {
       </div>
       <div>
         <h3>Experience</h3>
-        <h4>Software Developer</h4>
+        <h4>Frontend Developer</h4>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo vitae vel
           quae illum fuga id culpa aliquid consectetur corrupti. Ullam
